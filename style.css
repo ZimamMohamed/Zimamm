@@ -178,7 +178,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  height: 90vh;
   text-align: center;
   background: linear-gradient(135deg, #0f172a, #1e293b);
   color: #f8fafc;
@@ -1018,4 +1018,5 @@ footer {
   background: #00bcd4;
   color: #000;
 }
+
 
