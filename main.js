@@ -12,6 +12,7 @@ document.querySelectorAll('a[href^="#"]').forEach(link => {
 const textArray = [
   "Software Engineer",
   "UI/UX Designer",
+  "Web Developer",
   "IT Support Specialist",
   "UX Researcher"
 ];
@@ -81,6 +82,7 @@ document.querySelectorAll('.nav-links li a').forEach(link => {
     menuIcon.classList.remove('active');
   });
 });
+
 
 
   
